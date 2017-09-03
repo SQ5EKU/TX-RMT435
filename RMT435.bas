@@ -2,7 +2,8 @@
 ' Wymienic uC na 89C2051 , uklad przelacznia napiec wymaga modyfikacji.
 ' Dolutowac do uC uklad HT7044B (reset)
 ' Czestotliwosc pracy: 432.500 MHz lub 439.150 MHz
-'
+' http://sq5eku.blogspot.com
+
 $regfile = "89c2051.dat"
 $crystal = 12800000                                           ' zegar 12.8 MHz
 
